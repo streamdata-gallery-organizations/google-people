@@ -4,7 +4,7 @@ x-collection-name: Google People
 x-complete: 1
 info:
   title: Google People
-  description: provides-access-to-information-about-profiles-and-contacts
+  description: provides-access-to-information-about-profiles-and-contacts-
   contact:
     name: Google
     url: https://google.com
